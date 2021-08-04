@@ -1,0 +1,7 @@
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\bin\Debug\CS_looping.exe.config
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\bin\Debug\CS_looping.exe
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\bin\Debug\CS_looping.pdb
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\obj\Debug\CS_looping.csproj.AssemblyReference.cache
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\obj\Debug\CS_looping.csproj.CoreCompileInputs.cache
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\obj\Debug\CS_looping.exe
+C:\Users\gbright\Desktop\cs_looping\source\repos\CS_looping\CS_looping\obj\Debug\CS_looping.pdb
